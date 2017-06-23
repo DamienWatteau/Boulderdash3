@@ -1,0 +1,24 @@
+40
+22
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X   {          {    ^   {     {  {     X
+X   {{         {   {        {     [{ { X
+X {  {        {  {    { {   XXXXXXXXXXXX
+X   [   {  {     {              {{ {  {X
+XXXXXXXXXXXXX  { {              {  {  {X
+X         {     {        {{{       {   X
+X    {    {     {        { {{  {    {  X
+X  {    {  {              { {  {       X
+X     {           {{{       {    {    {X
+X{ {      {         {   {    {    [{   X
+X      {  {          {  {   XXXXXXXXXXXX
+X {{         {        {     {       {  X
+XXXXXXXXXXXXX{            {      { {{  X
+X  {        [  {    { {{         { {{  X
+X     {   {   XXXXXXXX           {  {  X
+X{   {    {  { {   [             {  {  X
+X       {     {        {{{{  {    {   {X
+X  {    {              {{ {  {        {X
+X{     {        { {       {  {        {X
+X      { {      { {            { (  {  X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
